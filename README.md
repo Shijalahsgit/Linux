@@ -13,6 +13,7 @@ Frequent and Transparent Updates: Regular security patches ensure system stabili
 High Stability: Linux systems can run for years without crashes, ensuring better uptime and reliability.
 
 # Core components of a Linux Machine
+
 +----------------------------------------------------+
 | User Applications (Vim, Docker, Apache, etc.)     |
 +----------------------------------------------------+
